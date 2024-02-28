@@ -1,5 +1,3 @@
-# s21_math  
-
 Implementation of your own version of the math.h library.  
 
 ## Part 1. Implementing the math.h library functions
